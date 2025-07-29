@@ -13,14 +13,14 @@ ADBMS/
 
 ## 👨‍🎓 Contributors
 
-- **Maheshwar** – [23BCS11580]  
+- **Maheshwar** – 23BCS11580
 
 
 ## 📅 Semester
 
-> 📚 Bachelor of Engineering – Semester [V]  
-> 📘 Subject Code: [23CSP-333]  
-> 🏫 College Name: [Chandigarh University]
+> 📚 Bachelor of Engineering – Semester 5
+> 📘 Subject Code: 23CSP-333 
+> 🏫 College Name: Chandigarh University
 
 ## 📄 License
 
